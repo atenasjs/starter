@@ -1,4 +1,4 @@
-import {Router} from '../../mod.ts'
+import { Router } from 'https://deno.land/x/atenas@stable/mod.ts'
 import { TestMiddleware } from '../app/middlewares/Test.middleware.ts'
 import HelloController from '../app/controllers/Hello.controller.ts'
 
